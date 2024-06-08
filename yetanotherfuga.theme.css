@@ -1,0 +1,71 @@
+/**
+ * @name yetanotherfuga
+ * @author Gibbu#1211
+ * @version 2.0.0
+ * @description Display your picture of choice with adjustable blur and brightness.
+ * @source https://github.com/DiscordStyles/FrostedGlass
+ * @invite ZHthyCw
+ * @donate https://paypal.me/IanRGibson
+ * @website https://gibbu.me
+ * @authorId 174868361040232448
+ * @BDEditor Frosted Glass
+*/
+
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://nyri4.github.io/Discolored/main.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+
+:root {
+  --background-image: url('https://i.imgur.com/delUGnv.jpeg');
+  --background-image-blur: 7px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-image: url('https://i.imgur.com/ys0BvYs.jpeg');
+  --popout-image-blur: 4px;
+  --popout-image-size: cover;
+  --popout-image-position: center;
+  --overlay-image: url('https://i.imgur.com/BhF5rhu.jpeg');
+  --overlay-image-blur: 6px;
+  --overlay-image-size: cover;
+  --overlay-image-position: center;
+  --home-button-image: url('https://i.imgur.com/Nr4wuqU.jpeg');
+  --home-button-size: 150%;
+  --home-button-position: center;
+  --serverlist-brightness: 0.64;
+  --left-brightness: 0.8;
+  --middle-brightness: 0.68;
+  --right-brightness: 0.18;
+  --overlay-brightness: 0.7;
+  --gradient-primary: 136,0,0;
+  --gradient-secondary: 232,104,0;
+  --link-colour: #00b0f4;
+  --scrollbar-colour: rgba(255,255,255,0.05);
+  --gradient-direction: 168deg;
+  --tint-colour: 255,77,0;
+  --tint-brightness: 0.26;
+  --font: Cascadia Mono;
+  --window-padding: 1px;
+  --window-roundness: 9px;
+  --update-notice-1: none;
+  --HSL-server-icon-size: 34px;
+  --HSL-server-spacing: 15px;
+  --rs-small-spacing: 2px;
+  --rs-medium-spacing: 2px;
+  --rs-large-spacing: 2px;
+  --rs-small-width: 2px;
+  --rs-medium-width: 2px;
+  --rs-large-width: 2px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #43b581;
+  --rs-idle-color: #faa61a;
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #643da7;
+  --rs-phone-visible: block;
+}
+
+/* Any custom CSS below here */
+
+
